@@ -1,7 +1,7 @@
 # 👩‍💻 About Me
-I'm from India
+# I'm from India
+## * 🔭 I’m working as a Freelancer as Technical Content Writer and, Python Developer 📚 I'm currently doing a 100 days Bootcamp in Python ⚡
 
-> 🔭 I’m working as a Freelancer as Technical Content Writer and, Python Developer 📚 I'm currently doing a 100 days Bootcamp in Python ⚡
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anjali-soni-72635424b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@anjali.developer01) 
 
